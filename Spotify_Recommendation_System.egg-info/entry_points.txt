@@ -1,0 +1,5 @@
+[console_scripts]
+spotify-recommendation-system = src.music_recommend.main:main
+
+[gui_scripts]
+spotify-recommendation-system-gui = src.music_recommend.app:main

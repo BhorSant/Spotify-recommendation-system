@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+Spotify_Recommendation_System.egg-info/PKG-INFO
+Spotify_Recommendation_System.egg-info/SOURCES.txt
+Spotify_Recommendation_System.egg-info/dependency_links.txt
+Spotify_Recommendation_System.egg-info/entry_points.txt
+Spotify_Recommendation_System.egg-info/not-zip-safe
+Spotify_Recommendation_System.egg-info/top_level.txt
